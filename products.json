@@ -1,0 +1,26 @@
+[
+  {
+    "id": "P01",
+    "name": "Anel Solitário",
+    "price": 199.9,
+    "category": "Aneis",
+    "description": "Anel com zircônia lilás.",
+    "image": "assets/p1.jpg"
+  },
+  {
+    "id": "P02",
+    "name": "Colar Gota",
+    "price": 289.9,
+    "category": "Colares",
+    "description": "Pingente gota ametista.",
+    "image": "assets/p2.jpg"
+  },
+  {
+    "id": "P03",
+    "name": "Brinco Lua",
+    "price": 129.9,
+    "category": "Brincos",
+    "description": "Brinco delicado.",
+    "image": "assets/p3.jpg"
+  }
+]
